@@ -36,9 +36,9 @@ Linux：Shell clash、Clash For Windows、clash-verg的Linux版本
 
 某大佬机场的隧道中转SS协议机场，广东入口，过境大带宽。适合不想人太多的,比较低调。体验可以，稳定性和速度都不错，后端负载均衡，多种落地。有免费试用，好不好用适不适合你的网络环境试用就知道了。适合不追求节点多的用户。有按量付费可以做备用。老板人不错。多个入口和过境，不用担心一个入口挂了全都没得用了。需要专属线路、大流量套餐可以开工单找机场主定制。8折优惠码：888，每个用户仅限使用一次。
 
-[悠兔官网地址1](https://youtu3.shop/#/register?code=3CxiqyOc)
+[悠兔官网地址1](https://youtu3.shop/#/register?code=A1HKVQGA)
 
-[悠兔官网地址2](https://youtu4.shop/#/register?code=3CxiqyOc)
+[悠兔官网地址2](https://youtu4.shop/#/register?code=A1HKVQGA)
 
 
 >开业时间：2022    
@@ -105,11 +105,9 @@ TG频道和群：有，人不多
 
 154块/一年的很适合做备用或者是轻度使用用户。
 
-[TAG官网链接1](https://suo.st/Z1SvZIB)  (如果打不开请切换为全局代理)
+[TAG官网链接1](https://tagss01.pro/#/auth/DotaBmo8)  (如果打不开请切换为全局代理)
 
-[TAG官网链接2，需要走代理](https://bit.ly/3E27EU9) (第一个打不开就点第二个，下面的也一样)
-
-[TAG官网链接3](https://tagss01.pro/#/auth/AJCjBhsw)
+[TAG官网链接2](https://tagss01.pro/#/auth/DotaBmo8)
 
 
 >开业时间：2018         
@@ -163,8 +161,7 @@ Nexitally，又叫奶昔机场，TG机场最出名的最高端的机场，以贵
 
 机场管理一般也会推荐他的用户买TAG,TAG老板也推荐买奶昔。商业互吹。
 
-[Nexitally机场官网地址1](https://nexitally.com/signup.aspx?PartnerCode=3ac8d2c2863c41e4abc485416bf89b81)
-[Nexitally机场官网地址2](https://bit.ly/3nluiPU)
+[Nexitally机场官网地址1](https://nxboom.com/signupbyemail.aspx?MemberCode=15e3c8fe0af04e59ae422b1662eea27120230923134947)
 
 >机场管理老板肉身：墙外     
 协议：SS+Trojan       
@@ -202,11 +199,8 @@ Premium Access套餐: 独立增加500G/月,168/月,增加Premium线路，需要�
 有分组：B/C/H三个组，有分组：B、C和H组，香港往其他地区路由：B组为运营商BGP路由 ；H组为AWS骨干网 ；C组为基于H组更高优先级。人数不一样，精品人少，碎片负载会更少。
 通过这个链接注册新用户全员无门槛8折优惠券，只能用一次：
 
-[WgetCloud官网链接1，需要走代理](https://bit.ly/3Ik4FJV) 
 
-[WgetCloud官网链接2](https://suo.st/18C0SJx)
-
-[WgetCloud官网链接3](https://invite.wgetcloud.ltd/auth/register?code=n7z3)  
+[WgetCloud官网链接](https://invite.wgetcloud.ltd/auth/register?code=8pKi)  
 
 
 
@@ -260,9 +254,8 @@ TG频道群组：无，主要使用邮件通知
 
 Sayss机场，ss协议广港IEPL专线中转机场，观察了好几个月。也测了挺久，感觉都还可以。所以就放博客。近期还上线了Ucloud UDPN IPLC专线。落地不多，但是地区不少，也比较精简。各种屏蔽审计也不多。使用体验还可以。不是很高调的机场。因为节点不多很快测完所以测其他家的时候就顺便测了。基础套餐没有月付，只能季付起。
 
-[Sayss官网地址1](https://suo.st/k21dIwt)
 
-[Sayss官网地址2](https://www.epaybc.com/#/register/yv7SoTwk)
+[Sayss官网地址](https://www.epaybc.com/#/register/tuaqiU8h)
 
 
 >开业时间：21年7月以前，具体不知道。不认识老板     
@@ -311,9 +304,8 @@ Enterprise | 1064G/月 |150/月;408/季;826/半年;1450/年
 专线中转ss协议机场，流媒体解锁很不错。之前免费试用的时候，不少用户续费。我体验过也还不错。         
 
 
-[SpeedCAT官网1](https://suo.st/LPYatJb)
 
-[SpeedCAT官网2](https://speedcat-aff.com/auth/register?code=52q2)
+[SpeedCAT官网](https://speedcat-aff.com/auth/register?code=QDdB)
 
 
 >机场主肉身：海外团队         
@@ -361,11 +353,8 @@ TG电报频道和群组：官网，关注人数：1000+
 IEPl专线与公网中转ss机场。可免费试用一天5G。         
 
 
-[官网链接1，需要走代理](https://bit.ly/3Sfrkd7)
 
-[官网链接2](https://suo.yt/tC69nKu)
-
-[官网链接3](https://yypro.pro/auth/register?code=nhnB)
+[官网链接](https://yypro.pro/user)
 
 
 
@@ -415,7 +404,7 @@ TG电报频道和群组：官网，关注人数：2000+
 
 
 
-## 八、Kycloud(150/年120G)          
+## 八、Kycloud(150/年120G)   (亲测不好用)       
 
 IEPL专线中转SS+Vmess机场，老机场，3线BGP入口，CDN优选入口，智能接入。稳定性还行。也有海外用户节点(就是给大陆外的人用的)。         
 套餐不限同时在线客户端数。注册需要先购买。Kycloud适合推荐给墙外的人使用，普通中转机场墙外不能使用。
@@ -482,9 +471,8 @@ vmess机场。广港IEPL+沪日隧道+京德隧道。高性价比冷门节点机
 
 不会用老板会愿意给你远程。
 
-[EdNovas云官网链接1](https://suo.st/lKVd2aa) 
 
-[EdNovas云官网链接2，需要代理打开](https://xn--ed-c72c.com/#/register?code=Ik0AHQqO)
+[EdNovas云官网链接](https://xn--ed-c72c.com/#/register?code=RFAoXs9W)
 
 
 >开业时间：2020年12月         
@@ -533,9 +521,8 @@ TG频道和群组：有，频道关注人数2000,群人数 4000 左右
 
 BGP多入口专线中转机场。过境口子5G带宽。几个月前(23年年初)就关注到的机场。近期使用感觉可以。专属优惠码： jichangtj (全场产品首次购买9折优惠) 如果不好用就是被攻击了。
 
-[官网1](https://suo.st/LtzIHn1)
 
-[官网2](https://honven20.flyb-aff01.com/auth/register?code=f34i)
+[官网](https://fbaff01.flyb-aff01.com/auth/register?code=Snrd)
 
 
 
@@ -584,7 +571,7 @@ TG频道：有，群组：无
 
 
 
-## 十一、Just my sock(5.8刀/月108G)  
+## 十一、Just my sock(5.8刀/月108G)   （亲测不好用）
 
 
 搬瓦工官方的Shadowsocks+Vmess机场，加拿大注册公司，正规大公司：线路是IPLC/GIA+CN2。         
@@ -666,11 +653,9 @@ YYDS,除了贵没有缺点。自建就买好的，要不然慢得话不如机场
 3年老机场了。Vmess+Trojan中转线路机场。线路是G口湖南联通和广州移动。机场主在东南亚。注册可以试用。
 
 
-[大哥云官网链接1，需要代理](https://bit.ly/3IZHi7Z) 
+[大哥云官网链接1](https://ab12y.com/#/register?code=Ceha1GkZ) 
 
-[大哥云官网链接2](https://suo.st/jDi6xQT) 
 
-[大哥云官网链接3](https://ab12y.com/#/register?code=YoIVdQJj) 
 
 >开业时间：2020         
 老板肉身：东南亚         
@@ -716,7 +701,7 @@ TG频道和群组：有，1500人+，群组人数3000+
 
 
 
-## 十三、芬达(12.8/月88G)  
+## 十三、芬达(12.8/月88G)   (不可用)
 
 
 全IEPL专线中转ss机场，人目前比较少，适合想要人少机场的用户。         
@@ -765,300 +750,5 @@ TG频道和群组：无
 <img src="https://jichangpingce.com/uploads/jichang/fenda/流媒体.webp"  width = "95%"   align=center  alt="fenda流媒体" />
 </details>
 
-
-## 十四、RelayCloud(19.8/月80G)  
-
-全中转SS机场，比较低调。机场主在菲律宾。解锁也不错。         
-新用户首次95折优惠码：SPECIAL         
-12小时合理情况退款(流量使用小于2GB)         
-
-[RelayCloud官网1](https://suo.yt/jEeHIZ7)
-
-[RelayCloud官网2,需要代理](http://bit.ly/3ySyU4A)
-
-[RelayCloud官网3](https://relay-cloud.net/auth/register?code=YqVf)
-
-
->开业时间：2020         
-老板肉身：菲律宾         
-入口：镇江电信、长沙移动、盐城移动         
-过境：公网中转         
-协议：Shadowsocks         
-UDP: 支持         
-客户端数目：3+         
-退款：有，12小时合理情况退款、流量使用小于2GB         
-ChatGPT/OpenAI解锁:  全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒、pincong         
-SSH端口屏蔽：屏蔽22端口         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-地区：节点数量44个，美国、台湾、新加坡、日本、香港、英国、俄罗斯、菲律宾         
-落地：Akari、OVH、HKT、Linode、Amazon等         
-TG频道和群组：有，频道关注人数1400+,群组人数 1000+         
-付款方式：支付宝、微信                  
-套餐价格是否包含手续费：包含         
-国外能否使用：否         
-<a href="https://jichangpingce.com/relaycloud历史测速结果整合.html" target="_blank">Relaycloud拓扑结构检测、流媒体、ChatGPT和历史测速结果合集</a>
-
-
-**套餐(所有套餐节点一样):**
-
-
-套餐 |  流量 | 价格 |客户端数目 
-:-:  | :-: | :-: | :-:
-月付80GB | 80G/月 | 19.8块/月 | 3
-月付10GB | 180G/月 | 26.8块/月 | 3
-月付380GB | 380G/月 | 56.8块/月 | 5
-年付600GB | 600G/年 | 148.8块/年 | 3
-年付1200GB | 1200G/年 | 218.8块/年 | 3
-年付2400GB | 2400G/年 | 398.8块/年 | 3
-
-
-
-
-
-
-<details>
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/relaycloud.webp"  width = "90%"  align=center  alt="Relaycloud晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/relaycloud/流媒体.webp"  width = "95%"   align=center  alt="relaycloud流媒体" />
-</details>
-
-
-
-## 十五、Taishan-便宜机场推荐(36/年)
-
-便宜公网中转+专线机场，之前注意到是看到是境外团队运营和可以免费试用，我去问下了是两个人负责，在日本, 其中一个负责技术.看群做节点维护还是挺积极快速的。落地提供感觉相对单一，现在出问题大多数都是中转，对落地要求不高的影响不大，买了个不限时的偶尔速度观察，观察了一个月了，整体还行对得起价格，刚开但是肉身在外的话不至于跑路。最便宜6块/月64G起，新开的机场比较便宜吸引人。这个价格要啥自行车，适合要求不高的。
-
-便宜机场适合一开始人少的时候买，后面容易人多体验就不好说了，太便宜还容易被打。
-
-[taishan官网地址1](https://suo.st/qxp7qJb)
-
-[taishan官网地址2](https://bit.ly/3P13vWC)
-
-[taishan官网地址3](https://www.taishan.pro/#/register?code=bc96eHTt)
-
-
->开业时间：22年6月以前,新开。怕跑路，就月付。   
-肉身：日本   
-入口与过境线路：公网中转+IPLC   
-节点数目： 40左右   
-协议：Shadowsocks   
-ip设置数目：不限制   
-UDP：不支持   
-付款方式：支付宝、微信、USDT   
-ChatGPT/OpenAI解锁: 除了香港基本全解锁   
-地区：香港、美国、日本、台湾、新加坡   
-落地提供商：主要就是hytron和akari，落地类型如果是同一家容易一挂全挂。   
-新闻屏蔽情况：大概看来下就屏蔽轮媒   
-SSH端口屏蔽：22端口未屏蔽   
-邮件传统协议smtp/pop3/imap：未禁止   
-TG频道和群：有   
-退款：不支持   
-试用：1天5G    
-[taishan机场怎么样》更多详情](https://jichanggo.com/taishan%e6%9c%ba%e5%9c%ba%e6%80%8e%e4%b9%88%e6%a0%b7-%e4%be%bf%e5%ae%9c%e6%9c%ba%e5%9c%ba%e6%8e%a8%e8%8d%90 "taishan机场怎么样》更多详情")
-
-套餐：
-
-流量 | 价格 
-:-: | :-: 
-64G/月 |6/月;15/季;25/半年;36/年
-128G/月 |10/月;27/季;48/半年;60/年
-256G/月 |18/月;54/季;86/半年;108/年
-512G/月 |32/月;86/季;153/半年;192/年
-
-
-按量不限时：
-150G永久时间 ，一次性15块
-500G永久时间 ，一次性45块
-1000G永久时间 ，一次性85块
-
-![taishan机场推荐测速结果](https://jichangtuijian.com/uploads/vpn/taishan.webp)
-
-
-
-## 十六、翼游/Yiyo(10/月50G)  
-
-ssr+trojan，全IEPl专线机场。有trojan协议线路。有各个平台小白一键使用客户端。 也有海外节点(给在外国的人用的)
-如果打不开请切换为全局代理。人数不少了。         
-
-
-[翼游Yiyo官网链接1](https://suo.yt/jo4NFtf)  
-
-[翼游Yiyo官网链接2,需要代理](https://bit.ly/3d3Yqga) 
-
-[翼游Yiyo官网链接3](https://yiyo.io/auth/register?code=KT8O)
-
-
->开业时间：2019         
-老板肉身：北美(确定)         
-入口ip：  广州、海南         
-协议：ShadowsocksR +Trojan         
-UDP：支持         
-大陆外能使用：是，用海外专用节点，购买套餐包括海外直连节点         
-节点数目：40+         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：屏蔽轮媒         
-SSH端口屏蔽：未屏蔽22端口         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-落地：美国、台湾、新加坡、日本、香港         
-小白客户端：Windows+Mac+安卓         
-专门客服：有         
-TG频道和群组：已私有         
-付款方式：支付宝         
-套餐价格是否包含手续费：包含         
-<a href="https://jichangpingce.com/yiyo历史测速结果整合.html" target="_blank">翼游Yiyo拓扑结构检测和流媒体和ChatGPT解锁情况、历史测速结果合集</a>
-
-**套餐(所有套餐节点一样):**
-
-流量 | 价格 |客户端数目 
-:-: | :-: | :-: 
-50G/月 |10块/月 | 2
-10G/月 |18块/月 | 3
-300G/月 |28块/月 | 5
-500G/月 |38块/月 | 6
-1000G/月 |78块/月 | 18
-2000G/月 |98块/月 | 18
-
-
-<details>
-
-<summary>测速图、拓扑结构检测和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/yiyo.webp"  width = "90%"   align=center  alt="翼游Yiyo晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/yiyo/流媒体.webp"  width = "95%"   align=center  alt="翼游Yiyo流媒体" />
-</details>
-
-
-
-
-## 十七、泡泡狗(7.5/月70G-被打等恢复)  
-
-深港IEPL+沪港ucloud专线+隧道中转SS机场，深港+沪港ucloud，后续会继续升级线路。过境口子大，解锁不错。月付与不限时共存。不限时套餐,一次性流量，可以做备用。无工单系统，有问题右下角找客服。性价比高，速度快，但是有时候会崩一下(便宜快速稳定不可能三角)，老板修得也快(如果不是在他睡眠时间的话)。落地也有不少高贵的落地：比如快车道。目前人也很多，可以先买个便宜的看看能不能接受他的速度。老板泡泡比较良心，出问题已经免费重置流量好几次了。群友纷纷表示流量用不完，太良心了，哭死。目前是动态倍率，比如0.5X就是你实际用1G只算你0.5G。老板日常也会在群里，比较活跃。
-缺点就是稳定性不够足，主要是卖得便宜在TG名声大,时不时会被ddos。老板也不想，TG的机场圈风气是这样的。但被打会上高防。建议先买个看看能不能接受这家的稳定性。
-
-
-08:30———18:30 北京时间：流量倍率 0.5x
-18:30———02:30 北京时间：流量倍率 1.0x
-02:30———08:30 北京时间：流量倍率 0.2x
-
-
-
-[官网1](https://suo.yt/ioT7KR6)
-
-[官网2,需要代理](http://bit.ly/3zFq9LZ)
-
-[官网3](https://www.paopao.dog/#/register?code=XLZnckjD)
-
-
-
->开业时间：2022.04         
-老板肉身：迪拜(确定)         
-过境: IEPL专线和公网隧道         
-大陆外能使用：能，自己修改入口即可         
-协议：Shadowsocks         
-UDP：基本支持Full-Cone NAT         
-客户端数目：不限制         
-落地ip数量： 70+         
-ChatGPT/OpenAI解锁: 全解锁         
-墙外新闻网站屏蔽情况：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong          
-SSH端口屏蔽：屏蔽22端口         
-邮件传统协议smtp/pop3/imap：禁止(用各家邮箱官方APP和网页不影响)         
-节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、阿根廷、土耳其、印度、马来西亚、俄罗斯、墨西哥、埃及         
-落地：misaka 和快车道等高端落地     
-按量付费：有         
-专门客服：有         
-一键客户端：有，频道历史里面         
-TG电报频道和群组：官网，关注人数：4000+，群组人数1万+         
-付款方式：支付宝、微信         
-套餐价格是否包含手续费：不包含(手续费8%左右)         
-<a href="https://jichangpingce.com/便宜IEPL中转机场推荐泡泡狗.html" target="_blank">拓扑结构、流媒体和ChatGPT解锁情况与历史测速与用户评价</a>
-
-
-**套餐(所有套餐节点一样，不包支付手续费，不同支付通道费率不一样):**
-
-月付套餐：
-
-* 7.5/月 70G流量   
-* 12.5/月 110G流量   
-* 20/月 210G流量   
-* 33/月 380G流量   
-* 45/月 600G流量   
-* 72/月 1000G流量   
-* 83/月 1300G流量   
-
-不限时套餐,一次性流量：
-30块150G；60块300G；80块450G；100块600G；150块1000G；210块1500G；260块2000G；360块3000G；
-
-
-
-<details>
-<summary>测速图和流媒体，点击展开</summary>
-<img src="https://jichangpingce.com/uploads/vpn/paopaodog.webp"  width = "90%"  align=center  alt="泡泡狗晚高峰电信1000M家宽测速" />
-流媒体检测：
-<img src="https://jichangpingce.com/uploads/jichang/paopaodog/流媒体.webp"  width = "90%"   align=center  alt="paopaodog流媒体" />
-</details>
-
-
-
-## 购买指导总结,快速筛选
-
-方便各位快速筛选定位
-
-1. **价格区分：**
-
-     1)**月付价格区间分类**(去除年付小流量套餐、只是按照价格从低到高排名不是推荐排名)：
-    
-    **10块/月以下**：大哥云(69/季200G/月)、泡泡狗(7.5/月70G)、EdNovas云(10块/每月50G)、翼游(10块/月50G)、Taishan(36/年)
-    
-    **10-20块/月**：芬达(12.8块/月88G)、Hutao(12块/月50G)、Flyingbird(15块/月100G)、跑路云(19.8块/月125G)、RelayCloud(19.8块/月80G)、悠兔(20块/月100G)、Speedcat(20块/月100G)
-    
-    **20-30块/月**：云翼网络(22.8块/月108G)、kycloud(75/季度50G/月)、Catnet(25/月100G)、少数派(29块/月200G)
-    
-    **30块/月起**： Sayss（100块/季） 、Just my sock(5.8刀/月108G)、STC-SERVER(38/月100G)、WgetCloud(49/月120G)、TAG(176块/季250G/月)、Nexitally(117/月)
-    
-     2)**想要小流量或者按量付费套餐**：
-       悠兔(100块/年200G)、TAG(154块/年200G)、kycloud(150/年每月10G)、云翼网络(188/年648G)、大哥云(88/年，15G/月)、EdNovas云(150/年200G)、RelayCloud(148.8块/年600G/年)、泡泡狗(20块110G不限时)、STC-SERVER(0.8块/G，8块起买)、、Taishan(150G永久时间 ，一次性15块)
-    
-     3)**需要1T起大流量月付套餐**：
-       悠兔(100/月1000G)、TAG(209块/月999G)、SpeedCAT(200/月1000G)、Kycloud(1T/月369/季)、Flyingbird(150块/月1000G)、EdNovas云(200/月1T)、泡泡狗(83/月1300G)、Just my sock(9.88美元/月起)、翼游(98块/月2000G)、Hutao(109/月1500G)
-
-
-2. **协议分类：**
-   
-    支持SS协议：悠兔、TAG、奶昔、WgetCloud、Sayss、SpeedCAT、云翼网络 、Kycloud、Flyingbird、RelayCloud、泡泡狗、 Just my sock、芬达、Taishan  
-   
-    支持SSR协议：翼游   
-    支持Trojan协议：WgetCloud、Nexitally、大哥云  
-    支持Vmess/V2ray：Kycloud、EdNovas云、大哥云、Just my sock   
-
-
-3.**屏蔽限制区分：**
-  未屏蔽22端口：Sayss、SpeedCAT、Kycloud、EdNovas云、大哥云、Just my sock、芬达、翼游、Taishan  
-  可用第三方软件发邮件：WgetCloud、Sayss、Kycloud、EdNovas云、大哥云、Just my sock、芬达、Taishan  
-  审计较少：Just my sock、Sayss、Kycloud、大哥云、EdNovas云、Taishan   
-
-
-4. **落地国家节点多**，买TAG、EdNovas云(冷门节点比不过TAG), 跑路云、Sayss也有部分冷门节点；
-
-5. **想要家宽**:TAG、悠兔、EdNovas云
-
-6. **支持虚拟币**：悠兔、Kycloud、EdNovas云、少数派、飞鸟、Taishan
-
-7. **有TG群**：悠兔、TAG、云翼网络 、Kycloud、RelayCloud、泡泡狗、少数派、大哥云、EdNovas云、Taishan
-
-8. **方便小白需要一键使用客户端的**：悠兔、、Nexitally、WgetCloud 、EdNovas云、大哥云、泡泡狗、少数派、芬达、翼游、Sayss
-
-9. **大陆外用户可以使用**：TAG国际站、kycloud、翼游、泡泡狗、飞鸟
-
-10. **相同线路**：tag、kycloud如果炸看，会一起炸。别买相同线路的做备用
-
-11.  需要回国线路：EdNovas云
-
-12.  有退款服务：EdNovas云、Just my sock、RelayCloud、少数派
-
-13.  需要UDP：TAG、Nexitally、WgetCloud、Sayss、SpeedCAT、EdNovas
-
-  以上就是一些值得推荐的机场，不好用的会下掉。不推荐太多家，容易选择困难。
   欢迎指正。
   觉得好可以 star 下，谢谢。日常更新。
